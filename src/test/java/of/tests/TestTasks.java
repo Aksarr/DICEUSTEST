@@ -7,7 +7,6 @@ import of.testComponents.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-// 1st test - home page open?
 public class TestTasks extends BaseTest {
 
     @Test
